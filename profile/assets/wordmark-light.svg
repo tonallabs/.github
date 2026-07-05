@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 120" role="img" aria-label="Tonal Labs">
+  <g fill="none" stroke-width="9">
+    <rect x="14" y="38" width="64" height="44" rx="22" stroke="#A0294F"/>
+    <rect x="54" y="38" width="64" height="44" rx="22" stroke="#E06A92"/>
+  </g>
+  <text x="148" y="78" font-family="Georgia, 'Times New Roman', serif" font-weight="600" font-size="52" letter-spacing="-0.5" fill="#1A0F18">Tonal Labs</text>
+</svg>
